@@ -1,4 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl4cmpiNnBudG4yY251Mjc0MTJoc2t0cnBubjZxMzNqa3hwMm54diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/james-robson-m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+<!--   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> -->
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Illyriat&style=flat-square&color=blue" alt=""/>
+  </div>
+  Hello there 👋
+</div>
+
 
 <!--
 **Illyriat/Illyriat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
