@@ -14,7 +14,7 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=Illyriat&style=flat-square&color=blue" alt=""/>
   </div>
-  Hello there 👋
+  Hello there 👋 I'm James
 </div>
 
 ---
