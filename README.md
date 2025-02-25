@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Illyriat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Illyriat&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <a href="https://www.codewars.com/users/Illyriat98" target="_blank">
   <img src="https://www.codewars.com/users/Illyriat98/badges/micro" alt="codewars kata"/>
 </a>
