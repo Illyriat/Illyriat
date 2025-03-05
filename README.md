@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,lua,postgres,mysql,bash,md)](https://skillicons.dev)
 --
-[![My Skills](https://skillicons.dev/icons?i=react,vite,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,spring,flask)](https://skillicons.dev)
 --
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm)](https://skillicons.dev)
 --
