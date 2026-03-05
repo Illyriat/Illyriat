@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+from+the+United+Kingdom;C%23+%2F+.NET+%7C+React+%7C+Postgres+%7C+Azure%2FAWS" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Illyriat&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Illyriat?style=flat-square" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Illyriat?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="stars"/>
 </div>
 
 ---
@@ -64,6 +66,44 @@
     </td>
   </tr>
 </table>
+
+<!--
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Project 1 — Title</strong><br/>
+      <em>1–2 line description of what it does and who it’s for.</em><br/>
+      <strong>Stack:</strong> Tech1 • Tech2 • Tech3<br/>
+      <strong>Links:</strong> <a href="#">Repo</a> • <a href="#">Live</a> • <a href="#">Demo</a>
+    </td>
+    <td width="50%" valign="top" align="right">
+      <strong>Project 2 — Title</strong><br/>
+      <em>1–2 line description of what it does and who it’s for.</em><br/>
+      <strong>Stack:</strong> Tech1 • Tech2 • Tech3<br/>
+      <strong>Links:</strong> <a href="#">Repo</a> • <a href="#">Live</a> • <a href="#">Demo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Project 3 — Title</strong><br/>
+      <em>1–2 line description of what it does and who it’s for.</em><br/>
+      <strong>Stack:</strong> Tech1 • Tech2 • Tech3<br/>
+      <strong>Links:</strong> <a href="#">Repo</a> • <a href="#">Live</a> • <a href="#">Demo</a>
+    </td>
+    <td width="50%" valign="top" align="right">
+      <strong>Project 4 — Title</strong><br/>
+      <em>1–2 line description of what it does and who it’s for.</em><br/>
+      <strong>Stack:</strong> Tech1 • Tech2 • Tech3<br/>
+      <strong>Links:</strong> <a href="#">Repo</a> • <a href="#">Live</a> • <a href="#">Demo</a>
+    </td>
+  </tr>
+</table>
+-->
 
 ---
 
