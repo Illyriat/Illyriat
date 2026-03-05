@@ -1,11 +1,12 @@
-### :man_technologist: About Me :
-Hello there 👋 I'm James. I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United Kingdom.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Hello+there+%F0%9F%91%8B+I%27m+James;Full+Stack+Developer+from+the+United+Kingdom;C%23+%2F+.NET+%7C+React+%7C+Postgres+%7C+Azure%2FAWS" alt="Typing SVG" />
 
+</div>
 <div>
   <img src="https://komarev.com/ghpvc/?username=Illyriat&style=flat-square&color=blue" alt=""/>
 </div>
----
+--
 
 ### :hammer_and_wrench: Languages & Tools :
 
