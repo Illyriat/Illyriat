@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1020&height=180&section=header&text=Illyriat%20%7C%20Full%20Stack%20Developer&fontColor=E6EDF3&fontSize=36&animation=fadeIn" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+from+the+United+Kingdom;C%23+%2F+.NET+%7C+React+%7C+Postgres+%7C+Azure%2FAWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+from+the+United+Kingdom;C%23+%2F+.NET+%7C+React+%7C+SQL+%7C+Azure%2FAWS" alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Illyriat&style=flat-square&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Illyriat?style=flat-square" alt="followers"/>
@@ -13,7 +13,7 @@
 ## 🧠 Quick Snapshot
 
 - **Full Stack Developer** (UK)
-- Focus: **C# / .NET**, **React**, **Cloud (Azure)**
+- Focus: **C# / .NET**, **React**, **Cloud (Azure / AWS)**
 - Interested in: **clean architecture**, **testing**, **performance**
 
 ---
