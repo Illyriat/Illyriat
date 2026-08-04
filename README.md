@@ -13,7 +13,7 @@
 ## 🧠 Quick Snapshot
 
 - **Full Stack Developer** (UK)
-- Focus: **C# / .NET**, **React**, **Cloud (Azure / AWS)**
+- Focus: **C# / .NET**, **Java**, **React**, **Cloud (Azure / AWS)**
 - Interested in: **clean architecture**, **testing**, **performance**
 
 ---
