@@ -128,11 +128,10 @@
       </a>
     </td>
     <td width="50%" valign="top" align="right">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Illyriat&theme=github-compact&hide_border=true" alt="Activity Graph" />
-      </a>
-    </td>
-  </tr>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Illyriat&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  </a>
+</td>
 
   <tr>
     <td colspan="2" valign="top">
