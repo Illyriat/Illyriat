@@ -136,7 +136,7 @@
   <tr>
     <td colspan="2" valign="top">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://trophy.ryglcloud.net/?username=illyriat&theme=onedark&no-frame=true&margin-w=10" alt="Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=illyriat&theme=onedark&no-bg=true&margin-w=10" alt="Trophies" />
       </a>
     </td>
   </tr>
